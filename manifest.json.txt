@@ -1,0 +1,20 @@
+{
+  "name": "CampusPlan - Student Planner",
+  "short_name": "CampusPlan",
+  "description": "Plan your classes, tasks, timetable and shopping in one place.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#111827",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
